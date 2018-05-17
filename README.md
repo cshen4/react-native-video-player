@@ -38,6 +38,8 @@ react-native link react-native-vector-icons
 | fullScreenOnLongPress   | Automatically show video on fullscreen when doing a long press.                             |
 | onStart                 | Callback for when the start button is pressed.                                              |
 | onPlayPress             | Callback for when the play button is pressed.                                               |
+| onSeekStart             | Callback for when the seek is started.                                                      |
+| onSeekEnd               | Callback for when the seek ends.                                                            |
 | onHideControls          | Callback for when the controls are being hide.                                              |
 | onShowControls          | Callback for when the controls are being shown.                                             |
 | customStyles            | The player can be customized in this object, see customStyles for the options.              |
